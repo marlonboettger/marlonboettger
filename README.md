@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @marlonboettger
-- 👀 I’m interested in Artificial Intelligence,Aquaponics, Science Fiction and Sailing
-- 🌱 I’m currently learning Python and Linux
-- 💞️ I’m looking to collaborate on mini-projects involving Linux, Python, AI, Peter Watts and Aquaponics. 
-- 📫 Drop me a line at marlon.boettger@protonmail.com
+Currently finishing my BSc in Data Science in Athens, Greece.
+
+Listening to Sun Ra 🎶👽 while coding in Python🐍, riding the quantum wave🌊, love dancing 🪩, arts🎨, magic🔮, astronomy🛰️, gardening🫚, and photography📷. Play with me Chess.com♟️, search for @ubuntu_club. 
 
 <!---
 marlonboettger/marlonboettger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
